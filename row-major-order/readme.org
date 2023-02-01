@@ -1,0 +1,6 @@
+* Row major order versus column major order
+
+** Literature
+
+Wikipedia: https://en.wikipedia.org/wiki/Row-_and_column-major_order
+
