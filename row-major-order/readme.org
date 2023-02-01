@@ -4,3 +4,5 @@
 
 Wikipedia: https://en.wikipedia.org/wiki/Row-_and_column-major_order
 
+
+Nice write up on numpy arrays: https://shihchinw.github.io/2019/03/performance-tips-of-numpy-ndarray.html
